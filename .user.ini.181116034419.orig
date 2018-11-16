@@ -1,0 +1,3 @@
+; Wordfence WAF
+auto_prepend_file = '/home/users/web/b1756/ipw.behavior123/public_html/BehaviorTherapyAssociates_2017/wordfence-waf.php'
+; END Wordfence WAF

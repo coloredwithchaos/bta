@@ -1,0 +1,10 @@
+/* spacing on hidden side menu */
+.wp-submenu a[href="admin.php?page=seopressor-smart-linking"]
+, .wp-submenu a[href="admin.php?page=seopressor-create-custom-role"]
+, .wp-submenu a[href="admin.php?page=seopressor-edit-custom-role"]
+, .wp-submenu a[href="admin.php?page=seopressor-apply-custom-role"]
+, .wp-submenu a[href="admin.php?page=seopressor-site-audit-listing"]
+, .wp-submenu a[href="admin.php?page=seopressor-logs"]
+{
+	display:none !important;
+}

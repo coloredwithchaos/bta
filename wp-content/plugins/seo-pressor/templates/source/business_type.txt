@@ -1,0 +1,120 @@
+Animal Shelter
+Accounting Service
+Amusement Park
+Art Gallery
+Attorney
+Auto Body Shop
+Auto Dealer
+Automated Teller
+Automotive Business
+Auto Parts Store
+Auto Rental
+Auto Repair
+Auto Wash
+Bakery
+Bank Or Credit Union
+Bar Or Pub
+Beauty Salon
+Bed And Breakfast
+Bike Store
+Book Store
+Bowling Alley
+Brewery
+Cafe Or Coffee Shop
+Casino
+Child Care
+Clothing Store
+Comedy Club
+Computer Store
+Convenience Store
+Day Spa
+Dentist
+Department Store
+Diagnostic Lab
+Dry Cleaning Or Laundry
+Electrician
+Electronics Store
+Employment Agency
+Entertainment Business
+Exercise Gym
+Fast Food Restaurant
+Financial Service
+Fire Station
+Florist
+Food Establishment
+Furniture Store
+Garden Store
+Gas Station
+General Contractor
+Golf Course
+Government Office
+Grocery Store
+Hair Salon
+Hardware Store
+Health Club
+Health And Beauty Business
+Hobby Shop
+Home Goods Store
+Home And Construction Business
+Hospital
+Hostel
+Hotel
+House Painter
+HVAC Business
+Ice Cream Shop
+Internet Cafe
+Insurance Agency
+Jewelry Store
+Liquor Store
+Locksmith
+Lodging Business
+Medical Clinic
+Medical Organization
+Men's Clothing Store
+Mobile Phone Store
+Motel
+Motorcycle Dealer
+Motorcycle Repair
+Movie Rental Store
+Movie Theater
+Moving Company
+Music Store
+Nail Salon
+Night Club 
+Notary
+Office Equipment Store
+Optician
+Outlet Store
+Pawn Shop
+Pet Store
+Pharmacy
+Physician
+Plumber
+Police Station
+Post Office
+Professional Service
+Public Swimming Pool
+Radio Station
+Real Estate Agent
+Recycling Center
+Restaurant
+Roofing Contractor
+Self Storage
+Shoe Store
+Shopping Center
+Ski Resort
+Sports Activity Location
+Sporting Goods Store
+Sports Club
+Stadium Or Arena
+Store
+Tattoo Parlor
+Television Station
+Tennis Complex
+Tire Shop
+Toy Store
+Tourist Information Center
+Travel Agency
+Veterinary Care
+Wholesale Store
+Winery

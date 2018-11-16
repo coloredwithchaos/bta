@@ -1,0 +1,61 @@
+var 2.2.0 - 13 July, 2017
+- Fixed: Alredy subscribed user not added to another list. 
+- Fixed: Default action when user is already subscribed not working.
+
+ver 2.1.3 - 5 April, 2017
+- Fix: All constant contact list does not appear in Drop down .
+
+ver 2.1.2.2 - 9 March, 2017
+- Fixed - Missing subscriber data with contact form 7, WP registration form , WP Comment Form and wooCommerce checkout form.
+
+ver 2.1.2.1 - 25 February, 2017
+- Fixed: Security - Sanitized subscriber data before inserting in the database
+- Fixed: PHP 7 compatibility issues
+
+ver 2.1.2 - 24 Feb 2017
+- Fixed: Welcome email not sending on adding contact
+- Fixed: Same contacts not added to different list 
+
+ver 2.1.1 - 12 Aug 2016
+- Fixed: Fatal error of plugin activation. 
+- Improvement: Added support for HTML tags in success/failure message. 
+
+var 2.1.0 - 11 May, 2016
+- Improvement: Added Detailed error message for "Something went wrong" case. 
+
+ver 2.0.4 - 10 March, 2016
+- Improvement: Updated auto update functionality
+
+ver 2.0.3 - 22 February, 2016
+- Fixed - Feature in Debug section to customize display message when same user tries to subscribe again.
+
+ver 2.0.2 - 16 February, 2016
+- Fixed - Minor fixes to prevent data loss
+
+ver 2.0.1 - 13 Feb, 2016
+- Fixed - Minor empty custom field fix
+
+ver 2.0.0 - 10 Feb, 2016
+- New Feature - Given a feature to add multiple fields in the forms
+
+ver 1.1.2 - 13 January, 2016
+- Fixed - Credential changed issue fixed
+
+ver 1.1.1 - 12 January, 2016
+- Fixed - URL redirect issue resolved
+- Fixed - Contact list assigned to default mailer when current mailer is disconnected.
+
+ver 1.1.0 - 8 January, 2016
+- Improvement - Exception handling
+- Fixed - Mailer List dependencies fixed
+- Fixed - Lists are fetched dynamically.
+
+ver 1.0.1 - 30 December, 2015
+- Improvement: Added "Where to find this?" URL reference.
+
+ver 1.0.0 - 29 December, 2015
+- Initial Connects - Constant Contact Addon
+
+
+
+
